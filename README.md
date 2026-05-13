@@ -1,55 +1,154 @@
-# 👨‍💻 Leo | LeozinWF
+<div align="center">
 
-🎬 Editor de Vídeo • VFX • 3D  
-💻 Analista de Sistemas  
-🚀 Criador de projetos tech e automações
+# 👾 LeozinWF
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Analista+de+Sistemas;Editor+de+Vídeo+%26+VFX;3D+Artist;Creative+Developer;Tech+Enthusiast;Building+Apps+%26+Experiences" />
 
-## 🌎 Redes
+<br>
 
-[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20world&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00F7FF" />
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
+# 🚀 Sobre mim
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+🎬 Editor criativo especializado em vídeos cinematográficos, VFX e motion  
+💻 Analista de sistemas apaixonado por tecnologia e automações  
+📱 Criador de apps e experiências digitais  
+🧠 Explorando desenvolvimento, design, IA e produtividade  
+🌎 Construindo projetos para o mercado brasileiro e internacional  
 
 ---
 
-## 🎨 Creative Stack
+# 🌌 Tech Universe
 
-![Premiere](https://img.shields.io/badge/-Premiere%20Pro-000?&logo=adobepremierepro)
-![After Effects](https://img.shields.io/badge/-After%20Effects-000?&logo=adobeaftereffects)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+<div align="center">
 
----
+### 💻 Desenvolvimento
 
-## 📊 GitHub Stats
-
-![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=leozinwf&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozinwf&layout=compact&theme=tokyonight)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
 
 ---
 
-## 🧠 Atualmente
+### 🎨 Creative Stack
 
-- 📱 Criando apps com React + Supabase
-- 🎬 Produzindo conteúdo tech
-- 🤖 Automações e IA
-- 🚀 Evoluindo projetos SaaS
+![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-0D1117?style=for-the-badge&logo=adobepremierepro)
+![After Effects](https://img.shields.io/badge/After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects)
+![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop)
+![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)
+![CapCut](https://img.shields.io/badge/CapCut-0D1117?style=for-the-badge&logo=capcut)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leozinwf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinwf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# ⚡ Contribution Graph
+
+<div align="center">
+
+[![Leo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leozinwf&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/leozinwf)
+
+</div>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<div align="center">
+
+![snake gif](https://github.com/leozinwf/leozinwf/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://instagram.com/SEUUSER" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://youtube.com/@SEUCANAL" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+```txt
+⚡ Building apps & digital products
+🎬 Cinematic video editing
+🚀 Automation & AI workflows
+📱 Mobile and web experiences
+🌌 Creative technology
+```
+
+---
+
+# 💎 Featured Projects
+
+<div align="center">
+
+| 🚀 Projeto | 📖 Descrição |
+|---|---|
+| GranaXP | Sistema/app financeiro |
+| Portfolio VFX | Motion, VFX e edição cinematográfica |
+| Automation Tools | Ferramentas de produtividade |
+| Creative Apps | Apps focados em experiência visual |
+
+</div>
+
+---
+
+# 🎵 Vibes
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 👁 Visitors
+
+![](https://komarev.com/ghpvc/?username=leozinwf&color=00F7FF&style=for-the-badge)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+
+</div>
