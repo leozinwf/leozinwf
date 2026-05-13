@@ -139,7 +139,7 @@
 
 ### 👁 Visitors
 
-![](https://komarev.com/ghpvc/?username=leozinwf&color=00F7FF&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=leozinwf&label=VISITORS&color=0E75B6&style=flat-square)
 
 <br><br>
 
