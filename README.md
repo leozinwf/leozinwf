@@ -88,15 +88,15 @@
 
 <div align="center">
 
-<a href="https://instagram.com/SEUUSER" target="_blank">
+<a href="https://instagram.com/leozinwf" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://youtube.com/@SEUCANAL" target="_blank">
+<a href="https://youtube.com/@leozinwf" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:leozinworkflow@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail"/>
 </a>
 
