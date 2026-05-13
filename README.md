@@ -48,13 +48,13 @@
 
 ---
 
-# 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leozinwf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leozinwf&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinwf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinwf&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
