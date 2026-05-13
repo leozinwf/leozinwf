@@ -2,9 +2,9 @@
 
 # 👾 LeozinWF
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Analista+de+Sistemas;Editor+de+Vídeo+%26+VFX;3D+Artist;Creative+Developer;Tech+Enthusiast;Building+Apps+%26+Experiences" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Analista+de+Sistemas;Editor+de+Video+e+VFX;3D+Artist;Creative+Developer;Tech+Enthusiast;Building+Apps+and+Experiences" />
+</p>
 
 ---
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/leozinwf/leozinwf/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leozinwf/leozinwf/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
