@@ -73,7 +73,7 @@
 # 🐍 Snake Eating Contributions
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/leozinwf/leozinwf/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/leozinwf/leozinwf/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
