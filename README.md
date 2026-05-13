@@ -3,7 +3,7 @@
 # 👾 LeozinWF
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Analista+de+Sistemas;Editor+de+Video+e+VFX;3D+Artist;Creative+Developer;Tech+Enthusiast;Building+Apps+and+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Video+Editor+%26+VFX;Fullstack+Builder;Tech+Enthusiast;LeozinWF&font=Fira%20Code&center=true&width=900&height=60&color=00F7FF&vCenter=true&pause=1000&size=30" />
 </p>
 
 ---
