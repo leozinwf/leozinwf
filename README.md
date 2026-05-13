@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Analista+de+Sistemas;Editor+de+Vídeo+%26+VFX;3D+Artist;Creative+Developer;Tech+Enthusiast;Building+Apps+%26+Experiences" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20world&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00F7FF" />
-
 </div>
 
 ---
