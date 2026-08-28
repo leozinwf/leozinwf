@@ -1,146 +1,89 @@
 <div align="center">
 
-# 👾 LeozinWF
+# Leonardo Sabatini
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Video+Editor+%26+VFX;Fullstack+Builder;Tech+Enthusiast;LeozinWF&font=Fira%20Code&center=true&width=900&height=60&color=00F7FF&vCenter=true&pause=1000&size=30" />
-</p>
+### Analista de Sistemas | Automação | Java | APIs | Desenvolvimento
 
----
+Construindo soluções de software, automações e integrações com foco em eficiência, confiabilidade e experiência de uso.
 
-# 🚀 Sobre mim
+[LinkedIn](https://www.linkedin.com/in/leonardosabatini/) · [Portfólio](https://leozinwf.space/)
 
-🎬 Editor criativo especializado em vídeos cinematográficos, VFX e motion  
-💻 Analista de sistemas apaixonado por tecnologia e automações  
-📱 Criador de apps e experiências digitais  
-🧠 Explorando desenvolvimento, design, IA e produtividade  
-🌎 Construindo projetos para o mercado brasileiro e internacional  
+</div>
 
 ---
 
-# 🌌 Tech Universe
+## Sobre mim
 
-<div align="center">
+Atuo em Tecnologia desde 2021, com experiência profissional em **automação de processos, desenvolvimento e integração de sistemas**.
 
-### 💻 Desenvolvimento
+No trabalho, atuo na criação, manutenção e evolução de um ecossistema com **1.200+ automações em produção**, responsável pelo processamento de aproximadamente **50 mil documentos por mês**.
 
+Tenho experiência prática com **Java, JavaScript, Selenium, Web Scraping, APIs, XPath, CSS Selectors, Regex, React e Git/GitHub**.
+
+Atualmente estou aprofundando meus conhecimentos em **Java + Spring Boot, PostgreSQL, Docker, testes e CI/CD**, com foco em evolução para desenvolvimento backend e engenharia de automação.
+
+---
+
+## Stack
+
+### Desenvolvimento
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178A6)
+
+### Automação e Integrações
+
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![REST API](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+### Em aprofundamento
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
-### 🎨 Creative Stack
+## Projetos em destaque
 
-![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-0D1117?style=for-the-badge&logo=adobepremierepro)
-![After Effects](https://img.shields.io/badge/After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects)
-![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop)
-![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)
-![CapCut](https://img.shields.io/badge/CapCut-0D1117?style=for-the-badge&logo=capcut)
-
-</div>
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Conversor RTA](https://github.com/leozinwf/Conversor_RTA) | Ferramenta para conversão e preparação de dados para automações RTA | React, Vite, JavaScript |
+| [DooHub](https://github.com/leozinwf/doohub) | Sistema para gestão de colaboradores, ponto, banco de horas e recursos humanos | React, Supabase, Tailwind |
+| [DashPro](https://github.com/leozinwf/dash-pro) | Dashboard para centralizar projetos, GitHub, infraestrutura e bancos de dados | Next.js, TypeScript, Supabase |
+| [RTA Extended Tools](https://github.com/leozinwf/RTA-Extended-Tools) | Ferramentas voltadas ao ecossistema de automação RTA | Em evolução |
 
 ---
 
-<h1 align="center">📊 GitHub Analytics</h1>
+## Atualmente estudando
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leozinwf&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leozinwf&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# ⚡ Contribution Graph
-
-<div align="center">
-
-[![Leo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leozinwf&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/leozinwf)
-
-</div>
-
----
-
-# 🐍 Snake Eating Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/leozinwf/leozinwf/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-# 🌐 Connect with me
-
-<div align="center">
-
-<a href="https://instagram.com/leozinwf" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://youtube.com/@leozinwf" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="mailto:leozinworkflow@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-# 🧠 Current Focus
-
-```txt
-⚡ Building apps & digital products
-🎬 Cinematic video editing
-🚀 Automation & AI workflows
-📱 Mobile and web experiences
-🌌 Creative technology
+```text
+Java
+Spring Boot
+REST APIs
+PostgreSQL
+Docker
+Testes automatizados
+CI/CD
+Arquitetura de software
 ```
 
 ---
 
-# 💎 Featured Projects
+## Objetivo profissional
 
-<div align="center">
-
-| 🚀 Projeto | 📖 Descrição |
-|---|---|
-| GranaXP | Sistema/app financeiro |
-| Portfolio VFX | Motion, VFX e edição cinematográfica |
-| Automation Tools | Ferramentas de produtividade |
-| Creative Apps | Apps focados em experiência visual |
-
-</div>
-
----
-
-# 🎵 Vibes
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" />
-
-</div>
+Evoluir como **Desenvolvedor Backend / Automation Engineer**, unindo minha experiência prática em automação e integrações com desenvolvimento de software, APIs e arquitetura de sistemas.
 
 ---
 
 <div align="center">
 
-### 👁 Visitors
-
-![](https://komarev.com/ghpvc/?username=leozinwf&label=VISITORS&color=0E75B6&style=flat-square)
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/leonardosabatini/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/leozinwf)
 
 </div>
